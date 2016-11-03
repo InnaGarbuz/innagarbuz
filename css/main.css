@@ -5,7 +5,8 @@ body {
   min-width: 320px;
   position: relative;
   line-height: 1.42857;
-  -webkit-font-smoothing: antialised; }
+  -webkit-font-smoothing: antialised;
+}
 
 body input:focus:required:invalid,
 body textarea:focus:required:invalid {
@@ -86,7 +87,7 @@ section {
         section .wrapper .main .text_header p {
           font-size: 17px;
           color: #b7b7b7;
-          padding: 10px 65px 0;
+          padding: 15px 57px 0;
           margin: 0;
           letter-spacing: 0;
           line-height: 10px; }
