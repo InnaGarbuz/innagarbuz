@@ -38,7 +38,7 @@ section {
     margin: 18px auto; }
     section .wrapper h1 {
       color: #E50B7C;
-      font-size: 31px;
+      font-size: 28px;
       font-weight: 700;
       letter-spacing: 0px; }
     section .wrapper form {
@@ -86,24 +86,23 @@ section {
         section .wrapper .main .text_header p {
           font-size: 17px;
           color: #b7b7b7;
-          padding: 30px 65px 0;
+          padding: 10px 65px 0;
           margin: 0;
           letter-spacing: 0;
           line-height: 10px; }
       section .wrapper .main .content {
         width: 100%;
         margin: 0 auto;
-        padding: 5px 90px 3px;
+        padding: 5px 73px 3px;
         overflow: hidden; }
         section .wrapper .main .content .b_left ul, section .wrapper .main .content .b_right ul {
           width: 100%; }
           section .wrapper .main .content .b_left ul li, section .wrapper .main .content .b_right ul li {
             padding: 4px 0;
             margin: 0 auto;
-            list-style-image: url("../img/the_volgas.png");
-            list-style-width: 50px; }
+            list-style-image: url("../img/the_volgas.png"); }
             section .wrapper .main .content .b_left ul li a, section .wrapper .main .content .b_right ul li a {
-              font-size: 25px;
+              font-size: 23px;
               color: #e50b7c; }
             section .wrapper .main .content .b_left ul li a:hover, section .wrapper .main .content .b_right ul li a:hover {
               text-decoration: underline; }
